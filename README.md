@@ -1,4 +1,4 @@
-score: 102
+Score: 102
 
 Useful info for the project:
 - cub3d_destroyer to test the parser: https://github.com/Dustin42Codam/cub3d_destroyer
